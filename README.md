@@ -14,11 +14,11 @@ Mention to Original Repository: https://github.com/kurogai/100-redteam-projects
 
 | Level 1 | Basic                                                                | Example            | URL |
 | ------- | -------------------------------------------------------------------- | ------------------ | --- |
-| [0]     | TCP or UDP server just to receive messages                           | :heavy_check_mark: |  https://github.com/jmoreno1852/TCP-Server.git   |
-| [1]     | TCP chat server                                                      | :heavy_check_mark: |  https://github.com/jmoreno1852/TCP-Chat   |
+| [0]     | TCP or UDP server just to receive messages                           | :heavy_check_mark: | https://github.com/jmoreno1852/TCP-Server.git   |
+| [1]     | TCP chat server                                                      | :heavy_check_mark: | https://github.com/jmoreno1852/TCP-Chat   |
 | [2]     | UDP chat server                                                      | :heavy_check_mark: | https://github.com/jmoreno1852/UDP-Chat.git    |
 | [3]     | Multi-threaded UDP or TCP chat server                                | :heavy_check_mark: | https://github.com/jmoreno1852/TCP-Chat    |
-| [4]     | Server for file transfers                                            | :x:                |     |
+| [4]     | Server for file transfers                                            | :heavy_check_mark: | https://github.com/jmoreno1852/FT-Server.git    |
 | [5]     | Caesar Cipher tool                                                   | :x:                |     |
 | [6]     | TCP chat server -> The messages should be encoded with Caesar Cipher | :x:                |     |
 | [7]     | ROT13 Cipher                                                         | :x:                |     |
