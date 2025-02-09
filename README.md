@@ -20,9 +20,9 @@ Mention to Original Repository: https://github.com/kurogai/100-redteam-projects
 | [3]     | Multi-threaded UDP or TCP chat server                                | :heavy_check_mark: | https://github.com/jmoreno1852/TCP-Chat    |
 | [4]     | Server for file transfers                                            | :heavy_check_mark: | https://github.com/jmoreno1852/FT-Server.git    |
 | [5]     | Caesar Cipher tool                                                   | :heavy_check_mark: | https://github.com/jmoreno1852/Rot13.git    |
-| [6]     | TCP chat server -> The messages should be encoded with Caesar Cipher | :x:                |     |
+| [6]     | TCP chat server -> The messages should be encoded with Caesar Cipher | :heavy_check_mark:                |     |
 | [7]     | ROT13 Cipher                                                         | :heavy_check_mark: | https://github.com/jmoreno1852/Rot13.git    |
-| [8]     | UDP Chat server -> The messages should be encoded with ROT13 Cipher  | :x:                |     |
+| [8]     | UDP Chat server -> The messages should be encoded with ROT13 Cipher  | :heavy_check_mark:                |     |
 | [9]     | Remote command execution                                             | :x:                |     |
 | [10]    | Recreate the Netcat tool                                             | :x:                |     |
 
