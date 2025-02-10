@@ -23,7 +23,7 @@ Mention to Original Repository: https://github.com/kurogai/100-redteam-projects
 | [6]     | TCP chat server -> The messages should be encoded with Caesar Cipher | :heavy_check_mark:                | Just implement rot13 when encoding and decoding, no repository needed   |
 | [7]     | ROT13 Cipher                                                         | :heavy_check_mark: | https://github.com/jmoreno1852/Rot13.git    |
 | [8]     | UDP Chat server -> The messages should be encoded with ROT13 Cipher  | :heavy_check_mark:                | Just implement rot13 when encoding and decoding, no repository needed   |
-| [9]     | Remote command execution                                             | :x:                |     |
+| [9]     | Remote command execution                                             | :heavy_check_mark: | https://github.com/jmoreno1852/remote-cmd-exec.git |
 | [10]    | Recreate the Netcat tool                                             | :x:                |     |
 
 ---
